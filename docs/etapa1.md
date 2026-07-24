@@ -1,5 +1,5 @@
 **Projeto integrador I – Documentação técnica**  
-**Responsável:** Francisco Chagas Soares Neto  
+**Responsável:** Francisco Soares  
 **Nome do sistema:** JESTer  
 **Versão:** 1.0
 
