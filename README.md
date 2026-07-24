@@ -34,3 +34,6 @@ Centralizar o gerenciamento de produtos, categorias, fornecedores, usuários e h
 ├── docs/             # Documentação técnica.
 ├── diagrams/         # Arquivos do modelo ER.
 └── database/         # Scripts SQL organizados por ordem de execução.
+```
+
+![alt](https://github.com/fsoaresbits/jester-database/blob/main/diagrams/etapa2.png)
