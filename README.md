@@ -36,4 +36,8 @@ Centralizar o gerenciamento de produtos, categorias, fornecedores, usuários e h
 └── database/         # Scripts SQL organizados por ordem de execução.
 ```
 
-![alt](https://github.com/fsoaresbits/jester-database/blob/main/diagrams/etapa2.png)
+---
+
+## 🔶 Diagrama de Entidade-Relacionamento
+
+![DER](https://github.com/fsoaresbits/jester-database/blob/main/diagrams/etapa2.png)
