@@ -32,5 +32,5 @@ Centralizar o gerenciamento de produtos, categorias, fornecedores, usuários e h
 ```text
 .
 ├── docs/             # Documentação técnica.
-├── diagrams/         # Arquivos do modelo DER.
+├── diagrams/         # Arquivos do modelo ER.
 └── database/         # Scripts SQL organizados por ordem de execução.
