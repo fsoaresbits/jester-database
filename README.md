@@ -68,7 +68,7 @@ As tabelas foram modeladas utilizando relacionamentos através de chaves primár
 # 📊 Diagrama Entidade-Relacionamento
 
 <p align="center">
-    <img src="docs/DER.png" width="900">
+    <img src="diagrams/etapa2.png" width="900">
 </p>
 
 ---
