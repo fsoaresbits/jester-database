@@ -4,7 +4,7 @@
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-Projeto desenvolvido para o **Projeto Integrador** do curso Técnico em Desenvolvimento de Sistemas do Senac.
+Projeto desenvolvido para o **Projeto Integrador I** do curso Técnico em Desenvolvimento de Sistemas do Senac.
 
 O **JESTer** é um Sistema de Controle de Estoque cuja modelagem de banco de dados foi projetada para registrar produtos, fornecedores, categorias, usuários e movimentações de estoque de forma organizada, íntegra e escalável.
 
